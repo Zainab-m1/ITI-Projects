@@ -4,4 +4,4 @@
 It includes all functions we worked on in ITI (Power BI Track).
 (Modules) file contains all the functions together.
 
-# Branch 2: Main project
+# Branch 2: Main projects
