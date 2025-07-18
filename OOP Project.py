@@ -340,6 +340,7 @@ class office:
     @staticmethod
     def calculate_lateness(targetHour, moveHour, distance, velocity):
         time = distance / velocity
+        moveHour = moveHour + time
         if time < 0:
             print("Invalid time.")
             return
